@@ -1,0 +1,2 @@
+tests/*.pickle
+tests/test_*.py

@@ -1,0 +1,7 @@
+__pycache__/
+.vscode/
+**.csv
+**.geojson
+**.sqlite
+.ipynb_checkpoints/
+.DS_Store
